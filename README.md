@@ -1,0 +1,2 @@
+This repository contains solutions to the Code Forces Assignment-1. Here is the link for the assignment:-
+https://docs.google.com/spreadsheets/d/1Q_HQHoM0Fz27ZDceU8tNf9EhHNC4h9BTfXks9MB9WQc/edit?gid=0#gid=0
