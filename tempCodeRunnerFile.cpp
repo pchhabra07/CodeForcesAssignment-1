@@ -1,1 +1,1 @@
-vector<int>efficiency;
+cout<<"NewSum: "<<newSum<<endl;
